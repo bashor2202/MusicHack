@@ -6,6 +6,9 @@ import re
 
 URL = '' #Enter album URL here
 
+#It should look something like
+#URL = 'http://www.goldenmp3.ru/adele/21'
+
 base = 'http://files.musicmp3.ru/lofi/'
 
 r = urllib2.urlopen('URL')
