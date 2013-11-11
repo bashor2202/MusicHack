@@ -2,7 +2,9 @@ MusicHack
 =========
 
 Hacking http://www.goldenmp3.ru
+
 This Python script will download any album from http://www.goldenmp3.ru without having to pay for the songs.
+
 Do whatever the fuck you want.
 
 
@@ -18,5 +20,6 @@ How to use
 
 
 Dependancies
+
 1. Wget (Avaiable at http://www.gnu.org/software/wget/)
 
