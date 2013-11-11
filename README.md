@@ -9,6 +9,7 @@ Do whatever the fuck you want.
 
 
 How to use
+=========
 
 1. Go to http://www.goldenmp3.ru/
 
@@ -20,6 +21,7 @@ How to use
 
 
 Dependancies
+=========
 
 1. Wget (Avaiable at http://www.gnu.org/software/wget/)
 
