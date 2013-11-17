@@ -5,7 +5,7 @@ Hacking http://www.goldenmp3.ru
 
 This Python script will download any album from http://www.goldenmp3.ru without having to pay for the songs.
 
-Do whatever the fuck you want.
+Please do whatever you want with it.
 
 
 How to use
