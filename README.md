@@ -1,5 +1,5 @@
-MusicHack
-=========
+# MusicHack
+
 
 Hacking http://www.goldenmp3.ru
 
@@ -8,8 +8,7 @@ This Python script will download any album from http://www.goldenmp3.ru without 
 Please do whatever you want with it.
 
 
-How to use
-=========
+# How to use
 
 1. Go to http://www.goldenmp3.ru/
 2. Find album you want to download.
@@ -17,14 +16,12 @@ How to use
 4. Run test.py
 
 
-Dependancies
-=========
+#Dependancies
 
 1. Wget (Avaiable at http://www.gnu.org/software/wget/)
 
 
-Liscence
-========
+# Liscence
 
 MIT
 
