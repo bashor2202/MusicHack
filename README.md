@@ -16,7 +16,7 @@ Please do whatever you want with it.
 4. Run test.py
 
 
-#Dependancies
+#Dependencies
 
 1. Wget (Avaiable at http://www.gnu.org/software/wget/)
 
