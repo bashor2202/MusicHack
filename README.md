@@ -22,3 +22,9 @@ Dependancies
 
 1. Wget (Avaiable at http://www.gnu.org/software/wget/)
 
+
+Liscence
+========
+
+MIT
+
