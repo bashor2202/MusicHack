@@ -11,7 +11,7 @@ URL = '' #Enter album URL here
 
 base = 'http://files.musicmp3.ru/lofi/'
 
-r = urllib2.urlopen('URL')
+r = urllib2.urlopen(URL)
 
 html = r.read()
 
