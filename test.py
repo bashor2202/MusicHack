@@ -4,7 +4,7 @@ from htmlentitydefs import name2codepoint
 import os
 import re
 
-URL = '' #Enter album URL here
+URL = https://www.goldenmp3.ru/ac-dc/rock-or-bust
 
 #It should look something like
 #URL = 'http://www.goldenmp3.ru/adele/21'
